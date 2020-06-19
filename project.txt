@@ -8,3 +8,4 @@ Jane is a Data Scientist and Samit is a statistician. We will need to determine
 who is responsible for what in this project.
 We may need to bring in a third person with Python programming skills into this project.
 We imagine this person will need to know about Pandas, Matplotlib and ggplot for R.
+An extra line.
