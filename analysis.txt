@@ -1,1 +1,3 @@
 We need data about patients, wards, dates, temperatures and inflammation size
+We need to determine the frequency at which these measurements will be taken
+
